@@ -27,6 +27,6 @@ if You want me to add another device to this list u have two options:
 
 ## Important
 
-My Telegram is: **@FPSensor**
-My GMail account is: **gkartyt@gmail.com**
-My SourceForge account is: **gkartyt**
+My Telegram is: **@FPSensor**  
+My GMail account is: **gkartyt@gmail.com**  
+My SourceForge account is: **gkartyt**  
