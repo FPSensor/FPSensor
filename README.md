@@ -2,7 +2,7 @@
 
 Hello, my name on the web is FPSensor (previously known as GKart).
 
-## What u can fin in this account of Github?
+## What u can find in this account of Github?
 
 This Github account is dedicated to te developerment of Android.
 
