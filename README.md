@@ -8,7 +8,7 @@ This Github account is dedicated to te developerment of Android.
 
 ## Supported devices:
 
-I have BananaDroid official support for E% Plus but the complete device list is:
+I have BananaDroid official support for E5 Plus but the complete device list is:
 
 - **Motorola Moto E5 [nora]**
 - **Motorola Moto E5 Play [james]**
