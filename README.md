@@ -30,3 +30,6 @@ if You want me to add another device to this list u have two options:
 My Telegram is: **@FPSensor**  
 My GMail account is: **gkartyt@gmail.com**  
 My SourceForge account is: **gkartyt**  
+
+# Visitors
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FPSensor.FPSensor)
