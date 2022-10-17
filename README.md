@@ -1,3 +1,6 @@
+# Most used languages
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPSensor&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/FPSensor&count_private=true)
+
 # Welcome to the Github profile of FPSensor
 
 Hello, my name on the web is FPSensor (previously known as GKart).
@@ -33,6 +36,3 @@ My SourceForge account is: **gkartyt**
 
 ## Visitors [Since 2022-10-14]
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FPSensor.FPSensor)
-
-# Most used languages
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPSensor&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/FPSensor)
