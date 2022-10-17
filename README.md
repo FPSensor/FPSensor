@@ -1,8 +1,8 @@
 # User specific stats
-![FPSensor GitHub stats](https://github-readme-stats.vercel.app/api?username=FPSensor&count_private=true?theme=tokyonight)
+![FPSensor GitHub stats](https://github-readme-stats.vercel.app/api?username=FPSensor&count_private=true&theme=tokyonight)
 
 # Most used languages
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPSensor&layout=compact&langs_count=10&)](https://github.com/FPSensor)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPSensor&layout=compact&langs_count=10&theme=tokyonight&)](https://github.com/FPSensor)
 
 # Welcome to the Github profile of FPSensor
 
