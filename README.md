@@ -33,3 +33,6 @@ My SourceForge account is: **gkartyt**
 
 ## Visitors [Since 2022-10-14]
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FPSensor.FPSensor)
+
+# Most used languages
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPSensor&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/FPSensor)
