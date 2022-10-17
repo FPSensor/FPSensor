@@ -2,7 +2,7 @@
 ![FPSensor GitHub stats](https://github-readme-stats.vercel.app/api?username=FPSensor&count_private=true)
 
 # Most used languages
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPSensor&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/FPSensor)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPSensor&layout=compact&langs_count=10&theme=radical)](https://github.com/FPSensor)
 
 # Welcome to the Github profile of FPSensor
 
