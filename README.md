@@ -27,6 +27,7 @@ This Github account is dedicated to te developerment of Android.
 - **Samsung Galaxy J5 [j5y17lte]**
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
+- **Xiaomi Redmi Note 8 [ginkgo]**
 
 **all of this devices have testers or i have it!**   
 if You want me to add another device to this list u have two options:
