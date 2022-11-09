@@ -9,6 +9,8 @@ This Github account is dedicated to te developerment of Android.
 ## Supported devices:
 
 - **Google Pixel 4a [sunfish]**
+- **Lenovo K6 [karate]**
+- **Lenovo K6 Note [karatep]**
 - **Motorola Moto E5 [nora]**
 - **Motorola Moto E5 Play [james]**
 - **Motorola Moto E5 Plus [hannah]**
