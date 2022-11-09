@@ -13,6 +13,7 @@ This Github account is dedicated to te developerment of Android.
 - **Samsung Galaxy A20e [a20e]**
 - **Samsung Galaxy A30 [a30]**
 - **Samsung Galaxy A40 [a40]**
+- **Google Pixel 4a [sunfish]**
 
 if You want me to add another device to this list u have two options:
 1. Send me the device or money to buy it [Donation]
