@@ -20,6 +20,7 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto E5 Plus [ahannah]**
 - **Motorola Moto E5 Plus [rhannah]**
 - **Motorola Moto G6 Play [al/jeter]**
+- **Motorola Moto G7 [river]**
 
 if You want me to add another device to this list u have two options:
 1. Send me the device or money to buy it [Donation]
