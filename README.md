@@ -22,6 +22,7 @@ This Github account is dedicated to te developerment of Android.
 - **Samsung Galaxy A20e [a20e]**
 - **Samsung Galaxy A30 [a30]**
 - **Samsung Galaxy A40 [a40]**
+- **Samsung Galaxy J5 [j5y17lte]**
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
 
