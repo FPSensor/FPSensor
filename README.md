@@ -26,6 +26,7 @@ This Github account is dedicated to te developerment of Android.
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
 
+**all of this devices have testers or i have it!**
 if You want me to add another device to this list u have two options:
 1. Send me the device or money to buy it [Donation]
 2. Wait to see if i add the device [So I buy the device myself]
