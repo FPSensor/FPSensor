@@ -8,13 +8,6 @@ This Github account is dedicated to te developerment of Android.
 
 ## Supported devices:
 
-- **Samsung Galaxy A10 [a10]**
-- **Samsung Galaxy A20 [a20]**
-- **Samsung Galaxy A20e [a20e]**
-- **Samsung Galaxy A30 [a30]**
-- **Samsung Galaxy A40 [a40]**
-- **Samsung Galaxy Note 20 5G [c1q]**
-- **Samsung Galaxy S20 Plus 5G [y2q]**
 - **Google Pixel 4a [sunfish]**
 - **Motorola Moto E5 [nora]**
 - **Motorola Moto E5 Play [james]**
@@ -23,6 +16,13 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto E5 Plus [rhannah]**
 - **Motorola Moto G6 Play [al/jeter]**
 - **Motorola Moto G7 [river]**
+- **Samsung Galaxy A10 [a10]**
+- **Samsung Galaxy A20 [a20]**
+- **Samsung Galaxy A20e [a20e]**
+- **Samsung Galaxy A30 [a30]**
+- **Samsung Galaxy A40 [a40]**
+- **Samsung Galaxy Note 20 5G [c1q]**
+- **Samsung Galaxy S20 Plus 5G [y2q]**
 
 if You want me to add another device to this list u have two options:
 1. Send me the device or money to buy it [Donation]
