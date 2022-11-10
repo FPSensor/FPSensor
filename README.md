@@ -18,8 +18,13 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto E5 Plus [rhannah]**
 - **Motorola Moto G6 Play [jeter]**
 - **Motorola Moto G6 Play [aljeter]**
+- **Motorola Moto G6 Plus [evert]**
+- **Motorola Moto G7 Play [channel]**
+- **Motorola Moto G7 Plus [lake]**
+- **Motorola Moto G7 Power [ocean]**
 - **Motorola Moto G7 [river]**
 - **Motorola Moto G9 Play [guamp]**
+- **Motorola Moto X4 [payton]**
 - **Samsung Galaxy A10 [a10]**
 - **Samsung Galaxy A20 [a20]**
 - **Samsung Galaxy A20e [a20e]**
