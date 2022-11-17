@@ -27,6 +27,7 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto G7 Power [ocean]**
 - **Motorola Moto G7 [river]**
 - **Motorola Moto G9 Play [guamp]**
+- **Motorola Moto G60 [hanoip]**
 - **Motorola Moto X4 [payton]**
 - **Samsung Galaxy A20 [a20]**
 - **Samsung Galaxy J2 Pro [j2y18lteks]**
