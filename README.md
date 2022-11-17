@@ -16,6 +16,9 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto E5 Plus [hannah]**
 - **Motorola Moto E5 Plus [ahannah]**
 - **Motorola Moto E5 Plus [rhannah]**
+- **Moto G Turbo [merlin]**
+- **Motorola Moto G3 [osprey]**
+- **Motorola Moto G4 Play [harpia]**
 - **Motorola Moto G5 [cedric]**
 - **Motorola Moto G5 Plus [potter]**
 - **Motorola Moto G5S Plus [sanders]**
@@ -28,6 +31,9 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto G7 [river]**
 - **Motorola Moto G9 Play [guamp]**
 - **Motorola Moto G60 [hanoip]**
+- **Motorola Moto X 2014 [victara]**
+- **Motorola Moto X 2015 [surnia]**
+- **Motorola Moto X Play [lux]**
 - **Motorola Moto X4 [payton]**
 - **Samsung Galaxy A20 [a20]**
 - **Samsung Galaxy J2 Pro [j2y18lteks]**
