@@ -16,7 +16,7 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto E5 Plus [hannah]**
 - **Motorola Moto E5 Plus [ahannah]**
 - **Motorola Moto E5 Plus [rhannah]**
-- **Moto G Turbo [merlin]**
+- **Motorola Moto G Turbo [merlin]**
 - **Motorola Moto G3 [osprey]**
 - **Motorola Moto G4 Play [harpia]**
 - **Motorola Moto G5 [cedric]**
