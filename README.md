@@ -26,17 +26,17 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto G6 Play [aljeter]** NEED TESTERS
 - **Motorola Moto G6 Plus [evert]**
 - **Motorola Moto G7 Plus [lake]**
-- **Motorola Moto G7 [river]**
-      - SparkOS
+- **Motorola Moto G7 [river]**  
+      - SparkOS  
 - **Motorola Moto G9 Play [guamp]**
 - **Motorola Moto G60 [hanoip]**
 - **Motorola Moto X 2014 [victara]**
 - **Motorola Moto X 2015 [surnia]**
 - **Motorola Moto X Play [lux]**
 - **Motorola Moto X4 [payton]**
-- **Samsung Galaxy A20 [a20]**
-      - EvolutionX
-      - xdroidOSS
+- **Samsung Galaxy A20 [a20]**  
+      - EvolutionX  
+      - xdroidOSS  
 - **Samsung Galaxy J2 Pro [j2y18lteks]**
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
