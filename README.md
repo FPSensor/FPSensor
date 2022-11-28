@@ -22,13 +22,12 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto G5 [cedric]**
 - **Motorola Moto G5 Plus [potter]**
 - **Motorola Moto G5S Plus [sanders]**
-- **Motorola Moto G6 Play [jeter]**
-- **Motorola Moto G6 Play [aljeter]**
+- **Motorola Moto G6 Play [jeter]** NEED TESTERS
+- **Motorola Moto G6 Play [aljeter]** NEED TESTERS
 - **Motorola Moto G6 Plus [evert]**
-- **Motorola Moto G7 Play [channel]**
 - **Motorola Moto G7 Plus [lake]**
-- **Motorola Moto G7 Power [ocean]**
 - **Motorola Moto G7 [river]**
+      - SparkOS
 - **Motorola Moto G9 Play [guamp]**
 - **Motorola Moto G60 [hanoip]**
 - **Motorola Moto X 2014 [victara]**
@@ -36,10 +35,11 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto X Play [lux]**
 - **Motorola Moto X4 [payton]**
 - **Samsung Galaxy A20 [a20]**
+      - EvolutionX
+      - xdroidOSS
 - **Samsung Galaxy J2 Pro [j2y18lteks]**
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
-- **Xiaomi Redmi Note 8 [ginkgo]**
 
 **all of this devices have testers or i have it!**   
 if You want me to add another device to this list u have two options:
