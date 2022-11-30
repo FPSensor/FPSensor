@@ -23,6 +23,7 @@ This Github account is dedicated to te developerment of Android.
 - **Samsung Galaxy A20 [a20]**  
       - EvolutionX  
       - ProjectBlaze 
+      - StagOS
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
 
