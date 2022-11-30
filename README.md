@@ -22,7 +22,7 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto X 2015 [surnia]**
 - **Samsung Galaxy A20 [a20]**  
       - EvolutionX  
-      - ProjectBlaze 
+      - ProjectBlaze   
       - StagOS
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
