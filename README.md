@@ -31,7 +31,7 @@ if You want me to add another device to this list u have two options:
 1. Send me the device or money to buy it [Donation]
 2. Wait to see if i add the device [So I buy the device myself]
 
-## Important
+## Contact me
 
 My Telegram is: **@FPSensor**  
 My GMail account is: **gkartyt@gmail.com**  
