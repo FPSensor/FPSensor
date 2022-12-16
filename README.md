@@ -20,12 +20,9 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto G9 Play [guamp]**
 - **Motorola Moto G60 [hanoip]**
 - **Motorola Moto X 2015 [surnia]**
-- **Samsung Galaxy A20 [a20]**  
-      - EvolutionX  
-      - ProjectBlaze   
-      - StagOS
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
+- **Xiaomi Redmi Note 7 [lavender]**
 
 **all of this devices have testers or i have it!**   
 if You want me to add another device to this list u have two options:
