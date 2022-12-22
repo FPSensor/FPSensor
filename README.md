@@ -13,13 +13,15 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto E5 [nora]**
 - **Motorola Moto E5 Play [james]**
 - **Motorola Moto E5 Plus [a/r/hannah]**
-- **Motorola Moto G5 [cedric]**
-- **Motorola Moto G6 Play [al/jeter]**
+- **Motorola Moto G5 Plus [potter]**
+- **Motorola Moto G5S Plus [sanders]**
 - **Motorola Moto G7 [river]**  
       - SparkOS  
+      - BananaDroid  
+      - StagOS  
+- **Motorola Moto G7 Plus [lake]**
 - **Motorola Moto G9 Play [guamp]**
 - **Motorola Moto G60 [hanoip]**
-- **Motorola Moto X 2015 [surnia]**
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
 - **Xiaomi Redmi Note 7 [lavender]**
