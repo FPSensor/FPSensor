@@ -29,11 +29,5 @@ My Telegram is: **@FPSensor**
 My GMail account is: **gkartyt@gmail.com**  
 My SourceForge account is: **gkartyt**  
 
-# User specific stats
-![FPSensor GitHub stats](https://github-readme-stats.vercel.app/api?username=FPSensor&count_private=true&theme=tokyonight)
-
-# Most used languages
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FPSensor&layout=compact&langs_count=10&theme=tokyonight&)](https://github.com/FPSensor)
-
 ## Visitors [Since 2022-10-14]
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FPSensor.FPSensor)
