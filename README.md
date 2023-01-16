@@ -11,7 +11,6 @@ This Github account is dedicated to te developerment of Android.
 - **Google Pixel 4a [sunfish]**
 - **Google Pixel 6a [bluejay]**
 - **Motorola Moto G7 [river]**  
-      - SparkOS  
       - BananaDroid  
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
