@@ -10,12 +10,17 @@ This Github account is dedicated to te developerment of Android.
 
 - **Google Pixel 4a [sunfish]**
 - **Google Pixel 6a [bluejay]**
+- **Motorola Moto G6 [ali]** less support    
 - **Motorola Moto G7 [river]**  
-      - BananaDroid  
+      - BananaDroid      
+      - riceDroid [UNOFFICIAL    
+      - StagOS [UNOFFICIAL]    
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
+- **Xiaomi Redmi 10C [fog]**
 - **Xiaomi Redmi Note 7 [lavender]**   
-      - BanabaDroid 
+      - BanabaDroid     
+      - Stag OS [UNOFFICIAL]    
 
 **all of this devices have testers or i have it!**   
 if You want me to add another device to this list u have two options:
