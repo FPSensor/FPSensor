@@ -14,7 +14,7 @@ This Github account is dedicated to te developerment of Android.
 - **Motorola Moto G7 [river]**  
       - BananaDroid      
       - riceDroid [UNOFFICIAL    
-      - StagOS [UNOFFICIAL]    
+      - Stag OS [UNOFFICIAL]    
 - **Samsung Galaxy Note 20 5G [c1q]**
 - **Samsung Galaxy S20 Plus 5G [y2q]**
 - **Xiaomi Redmi 10C [fog]**
