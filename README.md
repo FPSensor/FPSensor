@@ -16,10 +16,10 @@ This Github account is dedicated to te developerment of Android.
       - riceDroid [UNOFFICIAL    
       - Stag OS [UNOFFICIAL]    
 - **Samsung Galaxy Note 20 5G [c1q]**
-- **Samsung Galaxy S20 Plus 5G [y2q]**
-- **Xiaomi Redmi 10C [fog]**
+- **Samsung Galaxy S20 Plus 5G [y2q]**   
 - **Xiaomi Redmi Note 7 [lavender]**   
-      - BanabaDroid     
+      - BananaDroid     
+      - riceDroid
       - Stag OS [UNOFFICIAL]    
 
 **all of this devices have testers or i have it!**   
