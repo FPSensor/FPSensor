@@ -14,7 +14,7 @@ This Github account is dedicated to te developerment of Android.
 - **Samsung Galaxy S20 Plus 5G [y2q]**   
 - **Xiaomi Redmi Note 7 [lavender]**   
       - BananaDroid     
-      - riceDroid
+      - riceDroid    
       - Stag OS [UNOFFICIAL]    
 
 **all of this devices have testers or i have it!**   
