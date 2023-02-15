@@ -15,7 +15,7 @@ This Github account is dedicated to te developerment of Android.
 - **Xiaomi Redmi Note 7 [lavender]**   
       - BananaDroid     
       - riceDroid    
-      - Stag OS [UNOFFICIAL]    
+      - Stag OS    
 
 **all of this devices have testers or i have it!**   
 if You want me to add another device to this list u have two options:
