@@ -10,8 +10,15 @@ This Github account is dedicated to te developerment of Android.
 
 - **Google Pixel 4a [sunfish]**
 - **Google Pixel 6a [bluejay]**
+- **Motoro E5Familly [hannah/james/nora]** less support and almost no testers
+- **Motorola Moto G7 [river]**
+      - BananaDroid
+- **Motorola Moto G60 [hanoip]** less support 
 - **Samsung Galaxy Note 20 5G [c1q]**
+- **Samsung Galaxy A10 [a10]**   
+- **Samsung Galaxy A20 [a20]** 
 - **Samsung Galaxy S20 Plus 5G [y2q]**   
+- **Xiaomi Redmi 10C [fog]**
 - **Xiaomi Redmi Note 7 [lavender]**   
       - BananaDroid     
       - riceDroid    
