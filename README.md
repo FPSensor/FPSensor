@@ -13,7 +13,7 @@ This Github account is dedicated to te developerment of Android.
 - **Motoro E5Familly [hannah/james/nora]** less support and almost no testers    
 - **Motorola Moto G7 [river]**    
       - BananaDroid    
-- **Motorola Moto G60 [hanoip]** less support     
+- **Motorola Moto G82 5G [rhodep]**     
 - **Samsung Galaxy Note 20 5G [c1q]**    
 - **Samsung Galaxy A10 [a10]**   
 - **Samsung Galaxy A20 [a20]**   
