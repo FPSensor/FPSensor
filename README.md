@@ -5,10 +5,9 @@ Hello, my name on the web is FPSensor (previously known as GKart).
 ## Supported devices:
 
 ### Main support     
+- **Motorola Moto G7 [river]**
 - **Motorola Moto G82 5G [rhodep]**     
 - **Xiaomi Redmi Note 7 [lavender]**   
-      - BananaDroid     
-      - riceDroid   
 
 ### Maintained with testers
 - **Samsung Galaxy A10 [a10]**   
