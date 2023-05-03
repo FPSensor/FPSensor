@@ -7,8 +7,9 @@ I live in Argentina. my birthday is 16 - 12.
 ## Supported devices:
 
 - **Motorola Moto G7 [river]**
-- **Motorola Moto G82 5G [rhodep]**     
-- **Xiaomi Redmi Note 7 [lavender]**   
+  - BananaDroid
+  - CherishOS
+  - RisingOS
 
 ## Contact me
 
