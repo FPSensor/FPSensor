@@ -9,7 +9,10 @@ I live in Argentina. my birthday is 16 - 12.
 - **Motorola Moto G7 [river]**
   - BananaDroid
   - CherishOS
-  - RisingOS
+  - RisingOS    
+- **Motorola Moto G7 Plus [lake]**
+
+i also have a **Huawei Y8II/P8Lite [alice]** but i don´t develop for ir
 
 ## Contact me
 
