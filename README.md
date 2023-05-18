@@ -8,7 +8,6 @@ I live in Argentina. my birthday is 16 - 12.
 
 - **Motorola Moto E5 Plus [xhannah]**    
 - **Motorola Moto G7 [river]**
-  - BananaDroid
   - CherishOS
   - RisingOS    
 - **Motorola Moto G7 Plus [lake]**
