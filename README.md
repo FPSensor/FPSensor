@@ -12,7 +12,7 @@ I live in Argentina. my birthday is 16 - 12.
   - RisingOS    
 - **Motorola Moto G7 Plus [lake]**
 
-i also have a **Huawei Y8II/P8Lite [alice]** but i don´t develop for it
+i also have a **Huawei Y6II/P8Lite [alice]** but i don´t develop for it
 
 ## Contact me
 
