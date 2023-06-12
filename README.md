@@ -6,7 +6,7 @@ I live in Argentina. my birthday is 16 - 12.
 
 ## Supported devices:
 
-- **Motorola Moto E5 Plus [xhannah]**    
+- **Motorola MSM89x7**    
 - **Motorola Moto G7 [river]**
   - CherishOS
   - RisingOS    
