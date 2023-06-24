@@ -7,9 +7,7 @@ I live in Argentina. my birthday is 16 - 12.
 ## Supported devices:
 
 - **Motorola MSM89x7**    
-- **Motorola Moto G7 [river]**
-  - CherishOS
-  - RisingOS    
+- **Motorola khaje [rhode, hawao & devon]**
 
 i also have a **Huawei Y6II/P8Lite [alice]** but i don´t develop for it
 
