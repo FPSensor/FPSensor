@@ -4,15 +4,7 @@ Hello, my name on the web is FPSensor (previously known as GKart).
 I am a development enthusiast and spend part of my spare time developing on Android.    
 I live in Argentina. my birthday is 16 - 12.    
 
-## Supported devices:
-
-- **Motorola MSM89x7**    
-- **Motorola khaje [rhode, hawao & devon]**
-    - DerpFest
-    - ProjectElixir    
-    - RisingOS     
-
-i also have a **Huawei Y6II/P8Lite [alice]** but i don´t develop for it
+For now i only give support for **Motorola Moto G51 [cypfq]
 
 ## Contact me
 
