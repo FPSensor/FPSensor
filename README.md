@@ -17,6 +17,10 @@ Supported devices:
 Also i have a Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
 Anyways i dont develop for these devices
 
+if You want me to add another device to this list u have two options:
+1. Send me the device or money to buy it [Donation]
+2. Wait to see if i add the device [So I buy the device myself]
+
 ## Contact me
 
 My Telegram is: **@FPSensor**  
