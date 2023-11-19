@@ -5,13 +5,13 @@ I am a development enthusiast and spend part of my spare time developing on Andr
 I live in Argentina. my birthday is 16 - 12.    
 Supported devices:
 
-**Motorola khaje familly aka Moto G32/G42/G52**
- - AncientOS
- - BootleggersROM
- - DroidX-UI
- - RisingOS    
-**Motorola Moto G51 aka cypfq**
- - trees work in progress
+**Motorola khaje familly aka Moto G32/G42/G52**     
+ - AncientOS     
+ - BootleggersROM     
+ - DroidX-UI    
+ - RisingOS
+**Motorola Moto G51 aka cypfq**    
+ - trees work in progress     
 
 Also i have a Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
 Anyways i dont develop for these devices
