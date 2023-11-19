@@ -10,6 +10,7 @@ Supported devices:
  - BootleggersROM     
  - DroidX-UI    
  - RisingOS
+
 **Motorola Moto G51 aka cypfq**    
  - trees work in progress     
 
