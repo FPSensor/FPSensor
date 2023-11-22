@@ -7,7 +7,6 @@ Supported devices:
 
 **Motorola khaje familly aka Moto G32/G42/G52**     
  - AncientOS     
- - BootleggersROM     
  - DroidX-UI    
  - RisingOS
 
