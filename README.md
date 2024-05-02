@@ -3,11 +3,12 @@
 Hello, my name on the web is FPSensor (previously known as GKart).    
 I am a development enthusiast and spend part of my spare time developing on Android.    
 I live in Argentina. my birthday is 16 - 12.    
+
 Supported devices:
 
-**Motorola Moto G51 5G aka cypfq**    
- - AncientOS    
- - Matrixx
+**Motorola Moto G32 aka devon**    
+**Motorola Moto G42 aka hawao**   
+**Motorola Moto G52 aka rhode**   
 
 Also i have a Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
 Anyways i dont develop for these devices
