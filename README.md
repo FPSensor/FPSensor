@@ -8,6 +8,7 @@ Supported devices:
 
 **Motorola Moto G32 aka devon**    
 **Motorola Moto G42 aka hawao**   
+**Motorola Moto G51 aka cypfq**   
 **Motorola Moto G52 aka rhode**   
 
 Also i have a Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
