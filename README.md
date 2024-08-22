@@ -6,13 +6,12 @@ I live in Argentina. my birthday is 16 - 12.
 
 Supported devices:
 
-**Motorola Moto G32 aka devon**    
-**Motorola Moto G42 aka hawao**   
-**Motorola Moto G51 aka cypfq**   
-**Motorola Moto G52 aka rhode**   
+**Xiaomi Mi 8 aka dipper**    
 
-Also i have a Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
-Anyways i dont develop for these devices
+¡¡¡¡I don´t maintain public builds for any device for now!!!!
+
+Also i have a Moto G3, Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
+But these are useless
 
 if You want me to add another device to this list u have two options:
 1. Send me the device or money to buy it [Donation]
