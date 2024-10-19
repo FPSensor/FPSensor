@@ -6,7 +6,7 @@ I live in Argentina. my birthday is 16 - 12.
 
 Supported devices:
 
-**sweet_k6a (no server)
+**sweet_k6a (no server)**
 
 ¡¡¡¡I don´t maintain public builds for any device for now!!!!
 
