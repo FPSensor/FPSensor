@@ -6,11 +6,11 @@ I live in Argentina. my birthday is 16 - 12.
 
 Supported devices:
 
-**Xiaomi Mi 8 aka dipper**    
+**sweet_k6a (no server)
 
 ¡¡¡¡I don´t maintain public builds for any device for now!!!!
 
-Also i have a Moto G3, Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
+Also i have a Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
 But these are useless
 
 if You want me to add another device to this list u have two options:
