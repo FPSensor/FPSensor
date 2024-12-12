@@ -8,7 +8,7 @@ I live in Argentina. my date of birth is 16 - 12 -2005
 
 My Telegram is: **@FPSensor**  
 My GMail account is: **gkartyt@gmail.com**  
-My [Linkedin](https://www.linkedin.com/in/gonzalo-ignacio-daroqui-rodriguez-188217331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+My [Linkedin](https://www.linkedin.com/in/gonzalo-ignacio-daroqui-rodriguez-188217331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
 I have a interested page, wanna look into it? https://fpsensor.github.io
 Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
 
