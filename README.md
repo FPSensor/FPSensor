@@ -2,7 +2,7 @@
 
 Hello, my name on the web is FPSensor (previously known as GKart), my real name is Gonzalo Daroqui.    
 I am a development enthusiast and spend part of my spare time developing on Android.    
-I live in Argentina. my date of birth is 16 - 12 -2 005    
+I live in Argentina. my date of birth is 16 - 12 -2005    
 
 ## Contact me
 
@@ -10,7 +10,6 @@ My Telegram is: **@FPSensor**
 My GMail account is: **gkartyt@gmail.com**  
 My [Linkedin](https://www.linkedin.com/in/gonzalo-ignacio-daroqui-rodriguez-188217331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 I have a interested page, wanna look into it? https://fpsensor.github.io
-
 Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
 
 Supported devices:
