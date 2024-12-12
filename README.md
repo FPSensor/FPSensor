@@ -15,7 +15,8 @@ Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
 
 Supported devices:
 
-**sweet_k6a (no server)**
+ - **Xiaomi Redmi Note 6 Pro [tulip]**
+ - **Samsung Galaxy S21FE [r9s]**
 
 ¡¡¡¡I don´t maintain public builds for any device for now!!!!
 
