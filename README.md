@@ -16,10 +16,13 @@ Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
 Supported devices:
 
  - **Motorola Moto G100 [nio]**
- - **Samsung Galaxy S21FE [r9s]**
- - **Xiaomi Redmi 14C [lake]**
+ - **Samsung Galaxy S21FE [r9s]** [only by Proton+ dev]     
+ - **Xiaomi Redmi 14C [lake]** [don´t develop on it for now]    
+ - **IPhone 11 Pro Max** no development lol    
 
 ¡¡¡¡I don´t maintain public builds for any device for now!!!!
+
+Right now i don´t have a pc cuz broken moderboard, Probably would return development wen i repair it or send to repair but idk wen
 
 Also i have a Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
 But these are useless
