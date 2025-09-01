@@ -58,6 +58,7 @@ Supported devices:
 ⚠️ I do not maintain public builds at the moment.  
 
 I currently don't have a working PC due to a motherboard failure. Once repaired, I plan to return to active development.
+Edit: My pc would return today but i dont have a server to provide builds for now.
 
 Also i have a Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
 But these are useless
