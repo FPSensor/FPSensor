@@ -49,7 +49,7 @@ Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
 
 Supported devices:
 
- - **IPhone 11 Pro Max** no development lol    
+ - **Google Pixel 7** Locked in stock so i´m not going to develop on it for now    
  - **Motorola Moto G100 [nio]**
  - **Samsung Galaxy A52/A72 [a52q/a72q]** [only by Proton+ dev]
  - **Samsung Galaxy S21FE [r9s]** [only by Proton+ dev]     
