@@ -3,7 +3,7 @@
 Hi, I'm Gonzalo Daroqui — software enthusiast from Argentina focused on Android development and custom ROMs. I’ve been working on personal Android projects since 2016, exploring low-level optimization, device-specific tuning, and open-source contribution. Currently expanding my skills while looking for collaborative or professional opportunities.    
 
 I am a development enthusiast and spend part of my spare time developing on Android.    
-I live in Argentina. my date of birth is 16 - 12 -2005    
+I live in Argentina. my date of birth is 16 - 12 - 2005    
 
 ## Contact me
 
@@ -20,7 +20,7 @@ Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
    - Spanish [Native]    
    - English [B2]       
  - AOSP & LineageOS-based ROMs   
- - Translating projects from o to spanish    
+ - Translating projects from/to spanish/english    
     - Currently doing [SuperTux Wiki translate](https://github.com/FPSensor/wiki)    
  - Git, GitHub Actions    
     - [Github Actions bootcamp Certificate](https://fpsensor.github.io/certificates)    
@@ -49,18 +49,15 @@ Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
 
 Supported devices:
 
- - **Google Pixel 7** Locked in stock so i´m not going to develop on it for now    
+ - **Motorola Moto G9 Plus [odessa]** Locked in stock for now
  - **Motorola Moto G100 [nio]**
  - **Samsung Galaxy A52/A72 [a52q/a72q]** [only by Proton+ dev]
  - **Samsung Galaxy S21FE [r9s]** [only by Proton+ dev]     
  - **Xiaomi Redmi 14C [lake]** [don´t develop on it for now]    
 
-⚠️ I do not maintain public builds at the moment.  
+⚠️ I do not maintain public builds at the moment.
 
-I currently don't have a working PC due to a motherboard failure. Once repaired, I plan to return to active development.
-Edit: My pc would return today but i dont have a server to provide builds for now.
-
-Also i have a Redmi 4X that i can`t unlock, a old LG F60 and a Huawei P8 Lite.
+Also i have a Redmi 4X that i can`t unlock, a old LG F60, a Huawei P8 Lite and a Redmi Note 6 Pro but its locked by MI ACC and i dont hav that money for unlocking rn. 
 But these are useless
 
 if You want me to add another device to this list u have two options:
