@@ -17,6 +17,19 @@ Since 2016, I've been diving into personal Android projects, focusing on **low-l
 
 ---
 
+## 💼 Real-World Impact: Process Automation Case Study
+
+At my current data role for the apparel brand **Orangután**, I was tasked with managing weekly stock control, integrating costs, retail prices, and profit margins. As data scaled, this manual process became massive and highly repetitive, taking up to **5 hours per report** and generating complex, unmaintainable documentation.
+
+To fix this inefficiency, I took the initiative to master **Power Query** from scratch under an intense, 4-day hyper-focus sprint. 
+
+### 🚀 The Outcome:
+*   **Efficiency:** Automated 90% of the entire workflow, reducing the report generation time from **5 hours down to just 15–20 minutes**.
+*   **Scalability:** Eliminated the need for a convoluted 40-page technical manual, ensuring the pipeline remains clean, scalable, and easy for anyone to run.
+*   **Business Value:** Significantly optimized data accuracy and freed up hours of weekly operational bandwidth.
+
+---
+
 ## 📈 Featured Projects
 
 ### 📱 [Motorola Moto E5+ Kernel Upstream](https://github.com/E5Series)
