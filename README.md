@@ -11,7 +11,6 @@ My [Web Page](https://fpsensor.github.io)
 My Telegram is: **@FPSensor**  
 My GMail account is: **gkartyt@gmail.com**  
 My [Linkedin](https://www.linkedin.com/in/gonzalo-ignacio-daroqui-rodriguez-188217331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    
-I have a interested page, wanna look into it? https://fpsensor.github.io    
 Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
 
 ## Languages, Tools & 
@@ -19,20 +18,21 @@ Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
 - Languajes    
    - Spanish [Native]    
    - English [B2]       
- - AOSP & LineageOS-based ROMs   
+ - Kernel development and Custom ROMs building   
  - Translating projects from/to spanish/english    
     - Currently doing [SuperTux Wiki translate](https://github.com/FPSensor/wiki)    
  - Git, GitHub Actions    
     - [Github Actions bootcamp Certificate](https://fpsensor.github.io/certificates)    
  - PowerBI [Basic-Medium]    
-    - [PowerBI basic certificate](https://fpsensor.github.io/certificates)    
- - TWRP, Magisk, Fastboot & ADB      
+    - [PowerBI basic certificate](https://fpsensor.github.io/certificates)          
  - Linux Sever managment    
     - Optimizations     
     - Permission managment    
     - Setting Up and modifying   
  - Photography     
-    - Not professional, but you can check some of my work ony [Instagram](https://instagram.com/gonzalo.drodriguez)    
+    - Not professional, but you can check some of my work on my [Instagram](https://instagram.com/gonzalo.drodriguez)
+ - Power Query
+    - Complete mastery of the tool for creating scalable workflows
 
 ## Featured Projects
 
@@ -49,16 +49,15 @@ Buy me a coffee using paypal: **https://www.paypal.me/GKartyt**
 
 Supported devices:
 
- - **Motorola Moto G9 Plus [odessa]** Locked in stock for now
- - **Motorola Moto G100 [nio]**
- - **Samsung Galaxy A52/A72 [a52q/a72q]** [only by Proton+ dev]
- - **Samsung Galaxy S21FE [r9s]** [only by Proton+ dev]     
- - **Xiaomi Redmi 14C [lake]** [don´t develop on it for now]    
+ - **Motorola Moto Edge 30 [dubai]**     
+ - **Samsung Galaxy A52/A72 [a52q/a72q]** [only by Proton+ dev]     
+ - **Samsung Exynos 2100 [exynos2100]** [only by Proton+ dev]     
+ - **Xiaomi Redmi 4X [santoni]**     
 
 ⚠️ I do not maintain public builds at the moment.
 
-Also i have a Redmi 4X that i can`t unlock, a old LG F60, a Huawei P8 Lite and a Redmi Note 6 Pro but its locked by MI ACC and i dont hav that money for unlocking rn. 
-But these are useless
+Also i have a Huawei P8 Lite. 
+But i dont plain to develop for it never
 
 if You want me to add another device to this list u have two options:
 1. Send me the device or money to buy it [Donation]
