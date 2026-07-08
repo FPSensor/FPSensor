@@ -69,5 +69,20 @@ I'm always open to talking about Android, kernels, open-source projects, or pote
 
 ---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/FPSensor/FPSensor/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/FPSensor/FPSensor/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/FPSensor/FPSensor/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ### 📊 My Stats
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FPSensor.FPSensor)
